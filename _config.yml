@@ -3,8 +3,8 @@ name: Caitlyn Wolf
 email: caitlyn.wolf.2@gmail.com
 description: This website is a work in progress, check back soon!
 
-parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
-parallax_image_two: assets/images/startup3.jpg
+parallax_image_one: assets/images/lavendar_cait.jpg # These are the images used for the parallax background
+parallax_image_two: assets/images/lavendar_cait.jpg
 
 project_one: "First Project"
 project_one_description: Describe your project!
