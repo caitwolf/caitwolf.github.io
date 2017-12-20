@@ -2763,7 +2763,7 @@ video.responsive-video {
 .parallax-container {
   position: relative;
   overflow: hidden;
-  height: 100%;
+  height: 500px;
 }
 
 .parallax-container .parallax {
@@ -2778,14 +2778,14 @@ video.responsive-video {
 .parallax-container .parallax img {
   display: none;
   position: absolute;
-  left: 50%;
+  left: 0%;
   bottom: 0;
   min-width: 100%;
   min-height: 100%;
   -webkit-transform: translate3d(0, 0, 0);
           transform: translate3d(0, 0, 0);
-  -webkit-transform: translateX(-50%);
-          transform: translateX(-50%);
+  -webkit-transform: translateX(0%);
+          transform: translateX(0%);
 }
 
 .pin-top, .pin-bottom {
