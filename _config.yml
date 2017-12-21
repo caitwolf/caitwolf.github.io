@@ -5,6 +5,7 @@ description: This website is a work in progress, check back soon!
 
 parallax_image_one: assets/images/lavendar_cait.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/boats_cait.jpg
+parallax_image_three: assets/images/cherry_blossoms_cait.jpg
 
 project_one: "First Project"
 project_one_description: Describe your project!
