@@ -2763,7 +2763,8 @@ video.responsive-video {
 .parallax-container {
   position: relative;
   overflow: hidden;
-  height: 500px;
+  height: 200px;
+  background-size: 2px;
 }
 
 .parallax-container .parallax {
@@ -2773,7 +2774,6 @@ video.responsive-video {
   right: 0;
   bottom: 0;
   z-index: -1;
-  background-size: 2px;
 }
 
 .parallax-container .parallax img {
